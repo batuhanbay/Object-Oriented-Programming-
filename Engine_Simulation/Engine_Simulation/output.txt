@@ -1,0 +1,31 @@
+Motor calistirilamadi! Calistirmak istediginiz motor yakit deposuna sahip degil veya yeterli yakit yok!Hata baglanamadi! 5 numarali id ye sahip tank bulunamadi
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 83.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 91.500000	Broken status: 0
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 72.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 36.500000	Broken status: 0
+Tank ID: 3 Information: 
+Capacity: 100.000000	Fuel quentity: 100.000000	Broken status: 0
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 72.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 45.500000	Broken status: 0
+Engine: Simulation stoppedTank: 0 Simulation stoppedTank: 1 Simulation stoppedTank: 2 Simulation stoppedTank: 3 Simulation stoppedTank: 4 Simulation stoppedValve:0 Simulation stoppedValve:1 Simulation stoppedEngine: Simulation stoppedMotor calistirilamadi! Calistirmak istediginiz motor yakit deposuna sahip degil veya yeterli yakit yok!Hata baglanamadi! 5 numarali id ye sahip tank bulunamadi
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 83.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 91.500000	Broken status: 0
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 72.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 36.500000	Broken status: 0
+Tank ID: 3 Information: 
+Capacity: 100.000000	Fuel quentity: 100.000000	Broken status: 0
+Tank ID: 1 Information: 
+Capacity: 100.000000	Fuel quentity: 72.500000	Broken status: 0
+Tank ID: 2 Information: 
+Capacity: 150.000000	Fuel quentity: 45.500000	Broken status: 0
+Tank: 0 Simulation stoppedTank: 1 Simulation stoppedTank: 2 Simulation stoppedTank: 3 Simulation stoppedTank: 4 Simulation stoppedValve:0 Simulation stoppedValve:1 Simulation stoppedEngine: Simulation stopped
